@@ -25,5 +25,3 @@ app.get('/api/transactions', async (req,res) => {
 });
 
 app.listen(4040);
-
-//17yHpkN8zWDGHUDi
